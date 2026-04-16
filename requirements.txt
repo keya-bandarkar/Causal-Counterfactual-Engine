@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+dice-ml
+dowhy
+cvxpy
+dppy
+shap
+matplotlib
+seaborn
+streamlit
+gradio
+pytest
+joblib
+causal-learn # Alternative to notears-dagma if it has issues
+Pillow

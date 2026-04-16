@@ -1,0 +1,15 @@
+{
+    "age": {
+        "income": 381.73843630806925
+    },
+    "income": {},
+    "debt_ratio": {},
+    "monthly_income": {},
+    "num_open_credit_lines": {
+        "num_real_estate_loans": 0.12046917965229992
+    },
+    "num_times_90d_late": {},
+    "num_real_estate_loans": {},
+    "num_times_60_89d_late": {},
+    "num_dependents": {}
+}
