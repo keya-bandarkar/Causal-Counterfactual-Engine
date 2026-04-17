@@ -1,5 +1,9 @@
 # Causal Counterfactual Explanation Engine
 
+[![License](https://img.shields.io/github/license/keya-bandarkar/Causal-Counterfactual-Engine)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.14-blue)](https://www.python.org/downloads/release/python-3140/)
+[![Tests](https://img.shields.io/badge/tests-pytest-green)](https://pypi.org/project/pytest/)
+
 A causal counterfactual explanation system for credit lending decisions, built with a trained XGBoost model, structural causal reasoning, and interactive UI support.
 
 ## What it does
